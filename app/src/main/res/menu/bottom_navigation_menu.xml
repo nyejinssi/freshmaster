@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_item1"
+        android:title="Item 1"
+        android:icon="@drawable/nav_icon1"
+        android:iconTint="@color/main"/>
+
+    <item
+        android:id="@+id/navigation_item2"
+        android:title="Item 2"
+        android:icon="@drawable/nav_icon2"
+        android:iconTint="@color/main"/>
+
+    <item
+        android:id="@+id/navigation_item3"
+        android:title="Item 3"
+        android:icon="@drawable/nav_icon3"
+        android:iconTint="@color/main"/>
+
+    <item
+        android:id="@+id/navigation_item4"
+        android:title="Item 4"
+        android:icon="@drawable/nav_icon4"
+        android:iconTint="@color/main"/>
+
+    <item
+        android:id="@+id/navigation_item5"
+        android:title="Item 5"
+        android:icon="@drawable/nav_icon5"
+        android:iconTint="@color/main"/>
+</menu>
